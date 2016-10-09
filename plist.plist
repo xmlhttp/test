@@ -11,7 +11,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://apptest.richcomm.com.cn/MJtest.ipa</string>
+                    <string>http://apptest.richcomm.com.cn/richcomm.ipa</string>
                 </dict>
             </array>
             <key>metadata</key>
@@ -19,11 +19,11 @@
                 <key>bundle-identifier</key>
                 <string>com.fnst.smartwork</string>
                 <key>bundle-version</key>
-                <string>1.0</string>
+                <string>2.14.47</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>MJtest.ipa</string>
+                <string>richcomm.ipa</string>
             </dict>
         </dict>
     </array>
